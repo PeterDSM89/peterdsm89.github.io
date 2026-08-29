@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://peterdsm89.github.io/'
 locale = 'en-us'
 title = '$whoami'
 theme = "PaperMod"
